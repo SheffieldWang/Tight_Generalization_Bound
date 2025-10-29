@@ -93,6 +93,7 @@ If you use this code in your research, please cite the original paper:
   primaryClass={quant-ph},
   url={https://arxiv.org/abs/2510.24348}, 
 }
+```
 
 ## License
 
