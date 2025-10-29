@@ -93,3 +93,7 @@ If you use this code in your research, please cite the original paper:
   primaryClass={quant-ph},
   url={https://arxiv.org/abs/2510.24348}, 
 }
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
