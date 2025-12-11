@@ -151,8 +151,7 @@ if __name__ == "__main__":
                         help='Data type (default: phase)')
     parser.add_argument('--optimizer', type=str, default="adam",
                         help='Optimizer (default: adam)')
-    parser.add_argument('--dataset_index', type=int, default=1,
-                        help='Index of the dataset to use (default: 1)')
+
     
     
     args = parser.parse_args()
@@ -167,7 +166,7 @@ if __name__ == "__main__":
     seed = args.seed
     data_type = args.data_type
     optimizer = args.optimizer
-    dataset_index = args.dataset_index
+    dataset_index = 0
     # 实验配置
     config = {
         'n_qubits': n_qubits,

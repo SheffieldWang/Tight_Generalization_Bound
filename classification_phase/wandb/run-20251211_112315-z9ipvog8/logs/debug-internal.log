@@ -1,0 +1,7 @@
+{"time":"2025-12-11T11:23:15.549374024+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/qcql/Quantum/Quantum_Tight_Generalization_Bound/classification_phase/wandb/run-20251211_112315-z9ipvog8/logs/debug-core.log"}
+{"time":"2025-12-11T11:23:15.754263761+08:00","level":"INFO","msg":"created new stream","id":"z9ipvog8"}
+{"time":"2025-12-11T11:23:15.754281587+08:00","level":"INFO","msg":"stream: started","id":"z9ipvog8"}
+{"time":"2025-12-11T11:23:15.754294142+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"z9ipvog8"}
+{"time":"2025-12-11T11:23:15.754312167+08:00","level":"INFO","msg":"sender: started","stream_id":"z9ipvog8"}
+{"time":"2025-12-11T11:23:15.75433117+08:00","level":"INFO","msg":"handler: started","stream_id":"z9ipvog8"}
+{"time":"2025-12-11T11:23:20.696096273+08:00","level":"INFO","msg":"Starting system monitor"}
